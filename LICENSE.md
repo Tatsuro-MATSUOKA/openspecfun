@@ -25,7 +25,7 @@
 
 ## AMOS license
 
-Based on the discussion at http://octave.1599824.n4.nabble.com/Can-we-freely-use-AMOS-in-Octave-td4642557.html, AMOS is included in openspecfun as public domain software
+Based on the discussion at https://lists.gnu.org/archive/html/octave-maintainers/2012-08/msg00221.html, AMOS is included in openspecfun as public domain software
 
 > The AMOS functions are included in SLATEC, and the SLATEC guide 
 > (http://www.netlib.org/slatec/guide) explicitly states: 
